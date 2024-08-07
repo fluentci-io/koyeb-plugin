@@ -1,0 +1,12 @@
+[package]
+name = "koyeb"
+version = "0.1.0"
+description = "CI/CD Plugin for Koyeb"
+license = "MIT"
+keywords = [
+  "koyeb",
+  "deploy"
+]
+authors = [
+  "Tsiry Sandratraina <tsiry.sndr@fluentci.io>"
+]
